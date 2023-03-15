@@ -14,7 +14,7 @@ import nltk
 from sklearn import preprocessing
 from plotly.subplots import make_subplots
 import plotly.graph_objects as go
-import tweetnlp
+# import tweetnlp
 #from pandarallel import pandarallel
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
